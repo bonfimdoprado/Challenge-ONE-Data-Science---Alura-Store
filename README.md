@@ -56,10 +56,6 @@ Comparativo do custo médio de frete por unidade, com o objetivo de identificar 
 ![Image](https://github.com/user-attachments/assets/8f24ff6d-b08e-4f6c-b51a-83ebe373f4f1)
 
 
-## Autor
-
-* **Matheus Bonfim do Prado**: @bonfimdoprado (https://github.com/bonfimdoprado)
-
 ### 7 - Mapa de Calor das Vendas (Heatmap)
 Visualização espacial das vendas usando coordenadas geográficas para entender as regiões com maior volume de transações.
 
@@ -67,19 +63,23 @@ https://github.com/bonfimdoprado/Challenge-ONE-Data-Science---Alura-Store/issues
 
 ## Conclusão
 
-Objetivo
-Auxiliar o Sr. João na escolha da loja ideal para venda, com base em dados de faturamento, avaliação dos clientes, produtos vendidos, frete médio e localização geográfica.
+Objetivo:
+* Auxiliar o Sr. João na escolha da loja ideal para venda, com base em dados de faturamento, avaliação dos clientes, produtos vendidos, frete médio e localização geográfica.
 
-Principais Resultados
-Faturamento Total: A Loja B foi a mais lucrativa; Loja C teve o menor faturamento.
+Principais Resultados:
+* Faturamento Total: A Loja B foi a mais lucrativa; Loja C teve o menor faturamento.
 
-Avaliações dos Clientes: Loja C obteve a melhor média; Loja A teve a pior.
+* Avaliações dos Clientes: Loja C obteve a melhor média; Loja A teve a pior.
 
-Produtos Vendidos: Loja B lidera em volume de vendas; Loja C possui baixa rotatividade.
+* Produtos Vendidos: Loja B lidera em volume de vendas; Loja C possui baixa rotatividade.
 
-Frete Médio: Loja B tem o menor custo; Loja C o maior.
+* Frete Médio: Loja B tem o menor custo; Loja C o maior.
 
 Alcance Geográfico: Loja B concentra mais vendas; Loja C tem baixa atuação.
 
 Conclusão
 Recomenda-se a venda da Loja C, que apresenta os piores indicadores de desempenho, apesar da boa avaliação. As Lojas A e B devem ser mantidas, com destaque para a Loja B, que é a mais forte financeiramente e estrategicamente.
+
+## Autor
+
+* **Matheus Bonfim do Prado**: @bonfimdoprado (https://github.com/bonfimdoprado)
