@@ -28,10 +28,12 @@ Investigação mais profunda sobre a percepção dos clientes por tipo de produt
 ### 5 - Produtos Mais e Menos Vendidos por Loja
 Ranking de produtos com maior e menor desempenho de vendas, por loja.
 
-
+![Image](https://github.com/user-attachments/assets/91a2086c-dd25-4c2c-ab2e-ab5c3e0af495)[](url)
 
 ### 6 - Frete Médio por Loja
 Comparativo do custo médio de frete por unidade, com o objetivo de identificar oportunidades de otimização logística.
+
+
 
 ### 7 - Mapa de Calor das Vendas (Heatmap)
 Visualização espacial das vendas usando coordenadas geográficas para entender as regiões com maior volume de transações. 
