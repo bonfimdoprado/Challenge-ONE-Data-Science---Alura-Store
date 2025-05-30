@@ -23,4 +23,4 @@ Medida da satisfação dos clientes com base nas avaliações recebidas por cada
 ### 4 - Média das Avaliações por Categoria em Cada Loja
 Investigação mais profunda sobre a percepção dos clientes por tipo de produto, em cada loja.
 
-
+![Image](https://github.com/user-attachments/assets/781220f9-0f6c-4c77-9bbd-6da3caa0545d)
