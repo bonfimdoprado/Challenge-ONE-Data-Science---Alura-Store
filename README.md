@@ -1,5 +1,25 @@
 # Projeto - Análise de Vendas do E-commerce
 
+## Tecnologia
+
+Os softwares utilizados neste projeto foram:
+
+* Jupyter Anaconda
+* Python
+
+
+## Serviço usado:
+
+* Github
+
+
+## Bibliotecas Python
+
+* Pandas
+* folium
+* matplotlib
+* seaborn
+
 ## Descrição do Projeto </h1>
 Este projeto tem como objetivo analisar os dados de vendas de um e-commerce fictício com o intuito de extrair insights comerciais que possam ajudar na tomada de decisões estratégicas. Foram aplicadas técnicas de manipulação de dados com pandas, visualizações com matplotlib, seaborn e plotly, além da criação de mapas interativos com folium.
 
@@ -35,7 +55,31 @@ Comparativo do custo médio de frete por unidade, com o objetivo de identificar 
 
 ![Image](https://github.com/user-attachments/assets/8f24ff6d-b08e-4f6c-b51a-83ebe373f4f1)
 
+
+## Autor
+
+* **Matheus Bonfim do Prado**: @bonfimdoprado (https://github.com/bonfimdoprado)
+
 ### 7 - Mapa de Calor das Vendas (Heatmap)
 Visualização espacial das vendas usando coordenadas geográficas para entender as regiões com maior volume de transações.
 
 https://github.com/bonfimdoprado/Challenge-ONE-Data-Science---Alura-Store/issues/7#issue-3104471988
+
+## Conclusão
+
+Objetivo
+Auxiliar o Sr. João na escolha da loja ideal para venda, com base em dados de faturamento, avaliação dos clientes, produtos vendidos, frete médio e localização geográfica.
+
+Principais Resultados
+Faturamento Total: A Loja B foi a mais lucrativa; Loja C teve o menor faturamento.
+
+Avaliações dos Clientes: Loja C obteve a melhor média; Loja A teve a pior.
+
+Produtos Vendidos: Loja B lidera em volume de vendas; Loja C possui baixa rotatividade.
+
+Frete Médio: Loja B tem o menor custo; Loja C o maior.
+
+Alcance Geográfico: Loja B concentra mais vendas; Loja C tem baixa atuação.
+
+Conclusão
+Recomenda-se a venda da Loja C, que apresenta os piores indicadores de desempenho, apesar da boa avaliação. As Lojas A e B devem ser mantidas, com destaque para a Loja B, que é a mais forte financeiramente e estrategicamente.
