@@ -10,7 +10,12 @@ Análise do total faturado por cada loja. Essa métrica mostra quais unidades es
 
 ![Image](https://github.com/user-attachments/assets/e949cdfe-937d-48b6-8f2a-28600c90381f)
 
-### 1 - Quantidade de Produtos Vendidos por Categoria em Cada Loja
+### 2 - Quantidade de Produtos Vendidos por Categoria em Cada Loja
 Avaliação da distribuição de vendas por tipo de produto e loja, identificando tendências de consumo.
+
+![Image](https://github.com/user-attachments/assets/d88c79f7-5872-4da3-908a-0ef559972ecc)
+
+### 3 - Média das Avaliações dos Clientes por Loja
+Medida da satisfação dos clientes com base nas avaliações recebidas por cada loja.
 
 
