@@ -33,7 +33,9 @@ Ranking de produtos com maior e menor desempenho de vendas, por loja.
 ### 6 - Frete Médio por Loja
 Comparativo do custo médio de frete por unidade, com o objetivo de identificar oportunidades de otimização logística.
 
-
+![Image](https://github.com/user-attachments/assets/8f24ff6d-b08e-4f6c-b51a-83ebe373f4f1)
 
 ### 7 - Mapa de Calor das Vendas (Heatmap)
-Visualização espacial das vendas usando coordenadas geográficas para entender as regiões com maior volume de transações. 
+Visualização espacial das vendas usando coordenadas geográficas para entender as regiões com maior volume de transações.
+
+
