@@ -24,3 +24,14 @@ Medida da satisfação dos clientes com base nas avaliações recebidas por cada
 Investigação mais profunda sobre a percepção dos clientes por tipo de produto, em cada loja.
 
 ![Image](https://github.com/user-attachments/assets/781220f9-0f6c-4c77-9bbd-6da3caa0545d)
+
+### 5 - Produtos Mais e Menos Vendidos por Loja
+Ranking de produtos com maior e menor desempenho de vendas, por loja.
+
+
+
+### 6 - Frete Médio por Loja
+Comparativo do custo médio de frete por unidade, com o objetivo de identificar oportunidades de otimização logística.
+
+### 7 - Mapa de Calor das Vendas (Heatmap)
+Visualização espacial das vendas usando coordenadas geográficas para entender as regiões com maior volume de transações. 
