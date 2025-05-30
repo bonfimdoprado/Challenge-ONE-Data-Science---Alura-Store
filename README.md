@@ -8,3 +8,4 @@ Este projeto tem como objetivo analisar os dados de vendas de um e-commerce fict
 ### 1 - Faturamento Total por Loja
 Análise do total faturado por cada loja. Essa métrica mostra quais unidades estão performando melhor financeiramente.
 
+![Image](https://github.com/user-attachments/assets/e949cdfe-937d-48b6-8f2a-28600c90381f)
