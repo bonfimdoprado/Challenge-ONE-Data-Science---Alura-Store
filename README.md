@@ -18,4 +18,9 @@ Avaliação da distribuição de vendas por tipo de produto e loja, identificand
 ### 3 - Média das Avaliações dos Clientes por Loja
 Medida da satisfação dos clientes com base nas avaliações recebidas por cada loja.
 
+![Image](https://github.com/user-attachments/assets/3e96b13a-edfc-4dda-8d6a-3f43372b2f61)
+
+### 4 - Média das Avaliações por Categoria em Cada Loja
+Investigação mais profunda sobre a percepção dos clientes por tipo de produto, em cada loja.
+
 
