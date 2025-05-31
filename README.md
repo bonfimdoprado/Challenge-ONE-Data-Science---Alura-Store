@@ -60,26 +60,6 @@ Foi calculado o valor médio do frete cobrado em cada loja, permitindo entender 
 Utilizando as coordenadas geográficas (latitude e longitude), foi criado um mapa de calor interativo com a biblioteca Folium. Esse mapa mostra as regiões com maior concentração de vendas e auxilia na análise da cobertura geográfica de cada loja.
 
 https://github.com/bonfimdoprado/Challenge-ONE-Data-Science---Alura-Store/issues/7#issue-3104471988
-
-## Conclusão
-
-Objetivo:
-* Auxiliar o Sr. João na escolha da loja ideal para venda, com base em dados de faturamento, avaliação dos clientes, produtos vendidos, frete médio e localização geográfica.
-
-### Principais Resultados:
-* Faturamento Total: A Loja B foi a mais lucrativa; Loja C teve o menor faturamento.
-
-* Avaliações dos Clientes: Loja C obteve a melhor média; Loja A teve a pior.
-
-* Produtos Vendidos: Loja B lidera em volume de vendas; Loja C possui baixa rotatividade.
-
-* Frete Médio: Loja B tem o menor custo; Loja C o maior.
-
-* Alcance Geográfico: Loja B concentra mais vendas; Loja C tem baixa atuação.
-
-### Conclusão
-Recomenda-se a venda da Loja C, que apresenta os piores indicadores de desempenho, apesar da boa avaliação. As Lojas A e B devem ser mantidas, com destaque para a Loja B, que é a mais forte financeiramente e estrategicamente.
-
 ## Autor
 
 * **Matheus Bonfim do Prado**: @bonfimdoprado (https://github.com/bonfimdoprado)
