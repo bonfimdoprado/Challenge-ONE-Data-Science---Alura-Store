@@ -59,7 +59,8 @@ Foi calculado o valor médio do frete cobrado em cada loja, permitindo entender 
 ### 7 - Mapa de Calor das Vendas (Heatmap)
 Utilizando as coordenadas geográficas (latitude e longitude), foi criado um mapa de calor interativo com a biblioteca Folium. Esse mapa mostra as regiões com maior concentração de vendas e auxilia na análise da cobertura geográfica de cada loja.
 
-https://github.com/bonfimdoprado/Challenge-ONE-Data-Science---Alura-Store/issues/7#issue-3104471988
+![Image](https://github.com/user-attachments/assets/b1bd2193-6960-4a7d-aed8-dfd6ba12bbdd)
+
 ## Autor
 
 * **Matheus Bonfim do Prado**: @bonfimdoprado (https://github.com/bonfimdoprado)
